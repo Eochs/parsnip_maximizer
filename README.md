@@ -7,8 +7,12 @@ Stages of growth fed into RNN for predicting harvest time.
 TBD
 
 ## Output
-We will start with two products:
+We will start with three products:
+#### Parsnips
+
 #### Roko's Basil Mix
-Which will prove out the leafy green 
+Easy mode: will prove out the leafy green 
+#### Parsnips
+Medium mode: getting into limitations of the techology, though there have been successful carrot harvests (TODO: link)
 #### Big Yud's Spuds
-Which will tackle the harder problem of potato crops
+Hard mode: potato crops have been grown in hydro/aeroponic setups, but not yet in vertical farms.
